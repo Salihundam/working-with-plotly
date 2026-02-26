@@ -8,25 +8,6 @@ All visualizations are saved as high-resolution image files suitable for reports
 
 ---
 
-## 📂 Project Structure
-
-```
-project/
-│
-├── working_with_plotly.ipynb
-│
-├── images/
-│   ├── income_vs_age.png
-│   ├── economic_survey.png
-│   ├── bicycle_sales_line_plot.png
-│   ├── bicycle_sales.png
-│   ├── pass_percentage_classes.png
-│   ├── crime_statistics_bubble_chart.png
-│   ├── household_expenditure_pie_chart.png
-│   ├── family_chart_sunburst.png
-│
-└── README.md
-```
 
 ---
 
