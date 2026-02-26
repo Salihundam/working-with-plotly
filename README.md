@@ -9,8 +9,6 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 
----
-
 ## 🛠 Technologies Used
 
 - Python
@@ -85,11 +83,6 @@ All visualizations are saved as high-resolution image files suitable for reports
 
 - Shows hierarchical family structure
 - Demonstrates hierarchical data visualization
-
----
-
-
- Run all cells
 
 ---
 
