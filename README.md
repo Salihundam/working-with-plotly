@@ -25,7 +25,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ## 📈 Visualizations Created
 
 ### 1. Scatter Plot
-**File:** `income_vs_age.png`
+![Chart](income_vs_age2.png)
 
 - Shows relationship between age and income
 - Helps identify income distribution across age groups
@@ -33,7 +33,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 2. Scatter Plot with Titles
-**File:** `economic_survey.png`
+![Economic Survey](economic_survey.png)
 
 - Improved scatter plot with axis labels and title
 - Represents economic survey data clearly
@@ -41,7 +41,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 3. Line Plot
-**File:** `bicycle_sales_line_plot.png`
+![Bicycle Sales](bicycle_sales_line_plot.png)
 
 - Shows monthly bicycle sales trend
 - Useful for identifying growth and decline periods
@@ -49,7 +49,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 4. Bar Chart
-**File:** `pass_percentage_classes.png`
+![Pass Percentage](pass_percentage_classes.png)
 
 - Displays pass percentage across different classes
 - Helps compare performance between grades
@@ -57,7 +57,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 5. Histogram
-**File:** `height_distribution_histogram.png`
+![Height Distribution](height_distribution_histogram.png)
 
 - Shows distribution of heights
 - Helps understand frequency distribution
@@ -65,7 +65,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 6. Bubble Chart
-**File:** `crime_statistics_bubble_chart.png`
+![Crime Statistics](crime_statistics_bubble_chart.png)
 
 - Displays crime statistics by city
 - Bubble size represents number of crimes
@@ -73,7 +73,7 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 7. Pie Chart
-**File:** `household_expenditure_pie_chart.png`
+![Household Expenditure](household_expenditure_pie_chart.png)
 
 - Shows household spending distribution
 - Useful for budget analysis
@@ -81,50 +81,15 @@ All visualizations are saved as high-resolution image files suitable for reports
 ---
 
 ### 8. Sunburst Chart
-**File:** `family_chart_sunburst.png`
+![Family Chart](family_chart_sunburst.png)
 
 - Shows hierarchical family structure
 - Demonstrates hierarchical data visualization
 
 ---
 
-## 💾 Saving Charts as Images
 
-Charts are saved using Kaleido:
-
-```python
-fig.write_image("filename.png", width=1200, height=800, scale=2)
-```
-
----
-
-## ⚙ Installation
-
-Install required libraries:
-
-```bash
-pip install plotly numpy kaleido notebook
-```
-
----
-
-## ▶ How to Run
-
-1. Open terminal
-2. Navigate to project folder
-3. Run:
-
-```bash
-jupyter notebook
-```
-
-4. Open:
-
-```
-working_with_plotly.ipynb
-```
-
-5. Run all cells
+ Run all cells
 
 ---
 
@@ -150,11 +115,6 @@ These visualizations are useful for:
 
 ---
 
-## 👩‍💻 Author
-
-Aswini
-
----
 
 ## ⭐ Key Learning Outcome
 
